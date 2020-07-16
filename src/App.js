@@ -203,7 +203,7 @@ class App extends React.Component{
                         <br />
                         <button id="start_stop" onClick={this.handleClick}>Play/Pause</button>
                         <button id="reset" onClick={this.handleClick}>Reset</button>
-                        <audio className="clip" src="http://shing.mobile9.com/download/media/702/kimpossibl_amad37im.mp3" id="beep"></audio>
+                        <audio className="clip" src="https://onlineclock.net/audio/options/default.mp3" id="beep"></audio>
                     </div>
                 </div>
             </div>
